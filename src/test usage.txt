@@ -1,0 +1,7 @@
+client:
+
+-f "/ilab/users/as1705/CCworkspace/ABCD/src/fff.txt" -d 128.6.13.201 -u 5001 -l 0 r 0
+
+server:
+
+-o "/ilab/users/as1705/CCworkspace/ABCD/src/output.txt" -u 5001 -l 0 -r 0
