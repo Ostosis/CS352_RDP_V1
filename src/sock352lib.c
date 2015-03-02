@@ -13,7 +13,7 @@
 #define INIT_SEQ_NO_SERVER 2000
 //#define PACKET_SIZE 100
 //#define PACKET_BUFFER_SIZE  (PACKET_SIZE - sizeof(sock352_pkt_hdr_t))
-#define PACKET_BUFFER_SIZE 12000
+#define PACKET_BUFFER_SIZE 10000
 #define PACKET_SIZE (PACKET_BUFFER_SIZE + sizeof(sock352_pkt_hdr_t))
 
 
